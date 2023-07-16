@@ -1,0 +1,1 @@
+• This website helps users find the products of their choice. There are multiple features like filter by price, categories and users can also add products to cart, check the status of the orders. Admin can add new products and manage the orders. This website is built using React, Node, Express, MongoDB, CSS and JavaScript.
